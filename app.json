@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "travel2",
+    "slug": "travel2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/man.png",
+    "splash": {
+      "image": "./assets/man.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/man.png"
+    }
+  }
+}
